@@ -1,0 +1,61 @@
+*{
+	font-family: Chelsea Market;
+}
+/*service section*/
+
+#services_offered{
+	margin-top: 30px;
+
+}
+
+.services_column{
+	padding: 20px;
+	text-align: center;
+}
+
+.services_content{
+	margin-top: 50px;
+}
+
+/*gallery section*/
+#gallery {
+	margin-top: 100px;
+
+}
+button{
+	margin-top: 100px;
+}
+/*footer style*/
+footer{
+	padding: 20px;
+	margin-top: 50px;
+	background-color: black;
+color: #FFFFFF;
+}
+.footer_link{
+	color: #FFFFFF;
+} 
+.fotter_link : hover{
+	color: #FFFFFF;
+}
+
+ul{
+	list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
